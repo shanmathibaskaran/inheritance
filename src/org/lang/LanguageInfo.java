@@ -8,6 +8,8 @@ public class LanguageInfo extends StateDetails {
 	public void englishLanguage() {
 
 		System.out.println("english");
+		System.out.println("American english");
+		
 	}
 	public void hindiLanguage() {
 
